@@ -1,0 +1,7 @@
+*node_modules
+*package-lock.json
+dist
+.idea
+uploads/!placeholder.png
+uploads/!placeholder-bg.png
+uploads/*
